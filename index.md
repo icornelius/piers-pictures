@@ -1,7 +1,6 @@
 ---
 layout: home
-title: #
-permalink: #
+permalink: /
 ---
 
 This page supplies links and bibliographic references to online and printed images of manuscripts of *Piers Plowman*.

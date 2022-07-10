@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 This little site is built with [Jekyll] and hosted on [GitHub Pages].
