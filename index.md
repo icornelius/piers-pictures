@@ -95,6 +95,7 @@ C Version
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=406&nav=off)
 - Dc
   [Pearsall and Scott][zotero-collection],
+  [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/e6865046-6257-4591-a731-548232c7c8dd),
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=398&nav=off)
 - Ec
   none found
@@ -105,7 +106,8 @@ C Version
 - Hc
   [Yale University Digital Collections](https://collections.library.yale.edu/catalog/2054080)
 - I
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=157&nav=off)
+  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=157&nav=off),
+  [Kerby-Fulton et al. 2012][zotero-collection]\: 69
 - Kc
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/1e690ddd-4b7a-4822-956d-a92e609847d9/)
 - Mc
