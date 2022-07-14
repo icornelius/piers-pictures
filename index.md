@@ -79,6 +79,7 @@ B Version
   none found
 - W
   [Piers Plowman Electronic Archive],
+  [Wren Digital Library](https://mss-cat.trin.cam.ac.uk/Manuscript/B.15.17),
   [Matsushita 2010][zotero-collection]
 - Wb
   none found
