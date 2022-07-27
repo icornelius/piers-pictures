@@ -91,7 +91,7 @@ C Version
 =========
 
 - Ac
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=425&nav=off)
+  [Bloomsbury Medieval Studies](https://www.bloomsburymedievalstudies.com/da-volume?docid=BMS_SHL003)
 - Ca
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=406&nav=off)
 - Dc
