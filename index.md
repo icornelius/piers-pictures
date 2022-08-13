@@ -84,8 +84,8 @@ B Version
 - Wb
   none found
 - Y
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=368&nav=off),
-  [Benson and Blanchfield 1997][zotero-collection]
+  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=368&nav=off)
+  <!--fol. 35r, the same reproduced by Benson and Blanchfield-->
 
 C Version
 =========
