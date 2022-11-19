@@ -114,6 +114,7 @@ C Version
 - Mc
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=423&nav=off)
 - Nc
+  [BL Digitised Manuscripts](https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_2376),
   [BL Illuminated MSS](https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=3660&CollID=8&NStart=2376)<!--same image on ME Scribes-->
 - P
   [Huntington Digital Library](https://hdl.huntington.org/digital/collection/p15150coll7/id/50422/rec/4)
@@ -126,7 +127,7 @@ C Version
 - Sc
   [Parker Library on the Web](https://parker.stanford.edu/parker/catalog/zf010vc1580)
 - Uc
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=419&nav=off)
+  [BL Digitised Manuscripts](https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_35157)
 - Vc
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=411&nav=off)
 - X
@@ -142,7 +143,7 @@ BA Splice
 =========
 
 - H
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=374&nav=off)
+  [BL Digitised Manuscripts](https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_3954)
 
 AC Splices
 ==========
@@ -150,7 +151,7 @@ AC Splices
 - Ch
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=510&nav=off)
 - H2
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=344&nav=off)
+  [BL Digitised Manuscripts](https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_6041)
 - K
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/56f3c104-5e61-47ea-87dc-b8b8aa7db5e5/)
 - N
