@@ -57,7 +57,8 @@ B Version
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=367&nav=off),
   [Benson and Blanchfield 1997][zotero-collection]
 - F
-  [Piers Plowman Electronic Archive]
+  [Piers Plowman Electronic Archive],
+  [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/bbe3f34b-ebe3-4757-b2e0-cd4268c6749e/)
 - G
   [Piers Plowman Electronic Archive]
 - Hm, Hm2
@@ -149,7 +150,7 @@ AC Splices
 ==========
 
 - Ch
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=510&nav=off)
+  [Liverpool University](https://liverpooluniversitypress.manifoldapp.org/read/lul-ms-f-4-8/section/dc2448f1-91a3-42f6-be09-bc29fbb6a495)
 - H2
   [BL Digitised Manuscripts](https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_6041)
 - K
@@ -184,6 +185,6 @@ ABC Splices
 
 
 [zotero-collection]: https://www.zotero.org/irc7/collections/VULVWDZB
-[Piers Plowman Electronic Archive]: http://piers.chass.ncsu.edu/texts
+[Piers Plowman Electronic Archive]: http://piers.chass.ncsu.edu/
 [*The Yearbook of Langland Studies*]: https://piersplowman.org/yls/
 [*YLS*]: https://piersplowman.org/yls/
