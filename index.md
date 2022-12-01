@@ -11,10 +11,10 @@ For manuscripts not yet reproduced in a publicly distributed facsimile, I note r
 In such cases preference is given to [IIIF](https://iiif.io/) sources and digital reproductions served out by the holding institution.
 
 Web sources are linked directly.
-For printed sources, links are to bibliographical details hosted on [zotero](https://www.zotero.org).
+For printed sources, links are to bibliographical details hosted on [zotero].
 Illustrations published in [*The Yearbook of Langland Studies*] are referenced by volume number and page.
 
-Corrections and additions [are welcome](/about).
+Corrections and additions [are welcome](/piers-pictures/about).
 
 A Version
 =========
@@ -42,8 +42,8 @@ A Version
 - U
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=389&nav=off)
 - V
-  [Doyle 1987][zotero-collection],
-  [Scase 2011][zotero-collection],
+  [Doyle 1987][zotero],
+  [Scase 2011][zotero],
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/52f0a31a-1478-40e4-b05b-fddb1ad076ff/)
 
 B Version
@@ -52,10 +52,10 @@ B Version
 
 - C
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=363&nav=off),
-  [Benson and Blanchfield 1997][zotero-collection]
+  [Benson and Blanchfield 1997][zotero]
 - C2
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=367&nav=off),
-  [Benson and Blanchfield 1997][zotero-collection]
+  [Benson and Blanchfield 1997][zotero]
 - F
   [Piers Plowman Electronic Archive],
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/bbe3f34b-ebe3-4757-b2e0-cd4268c6749e/)
@@ -81,7 +81,7 @@ B Version
 - W
   [Piers Plowman Electronic Archive],
   [Wren Digital Library](https://mss-cat.trin.cam.ac.uk/Manuscript/B.15.17),
-  [Matsushita 2010][zotero-collection]
+  [Matsushita 2010][zotero]
 - Wb
   none found
 - Y
@@ -96,7 +96,7 @@ C Version
 - Ca
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=406&nav=off)
 - Dc
-  [Pearsall and Scott][zotero-collection],
+  [Pearsall and Scott][zotero],
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/e6865046-6257-4591-a731-548232c7c8dd),
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=398&nav=off)
 - Ec
@@ -109,7 +109,7 @@ C Version
   [Yale University Digital Collections](https://collections.library.yale.edu/catalog/2054080)
 - I
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=157&nav=off),
-  [Kerby-Fulton et al. 2012][zotero-collection]\: 69
+  [Kerby-Fulton et al. 2012][zotero]\: 69
 - Kc
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/1e690ddd-4b7a-4822-956d-a92e609847d9/)
 - Mc
@@ -133,8 +133,8 @@ C Version
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=411&nav=off)
 - X
   [Huntington Digital Library](https://hdl.huntington.org/digital/collection/p15150coll7/id/53252/rec/3),
-  [Chambers 1936][zotero-collection],
-  [Matsushita 2010][zotero-collection]
+  [Chambers 1936][zotero],
+  [Matsushita 2010][zotero]
 - Yc
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/d381d1c9-92c3-49cc-bc09-19ac6a53ffb5),
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=392&nav=off),
@@ -159,32 +159,32 @@ AC Splices
   [National Library of Wales](https://www.library.wales/discover/digital-gallery/manuscripts/the-middle-ages/piers-plowman/)
 - T
   [Wren Digital Library](https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.14),
-  [Matsushita 2010][zotero-collection]
+  [Matsushita 2010][zotero]
 - Wa
   none found<!--PPEA Data Archive-->
 - Z
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/0cecbb9e-b126-4360-b514-eb949f851b43/),
-  [Brewer and Rigg 1994][zotero-collection],
-  [Matsushita 2008][zotero-collection]
+  [Brewer and Rigg 1994][zotero],
+  [Matsushita 2008][zotero]
 
 ABC Splices
 ===========
 
 - Bm
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=370&nav=off),
-  [Benson and Blanchfield 1997][zotero-collection]
+  [Benson and Blanchfield 1997][zotero]
 - Bo
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=388&nav=off),
-  [Benson and Blanchfield 1997][zotero-collection]
+  [Benson and Blanchfield 1997][zotero]
 - Cot
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=373&nav=off),
-  [Benson and Blanchfield 1997][zotero-collection],
+  [Benson and Blanchfield 1997][zotero],
   [*YLS*] 24:65
 - Ht
   [Huntington Digital Library](https://hdl.huntington.org/digital/collection/p15150coll7/id/40589/rec/4)
 
 
-[zotero-collection]: https://www.zotero.org/irc7/collections/VULVWDZB
+[zotero]: https://www.zotero.org/irc7/tags/pp-ms-images/library
 [Piers Plowman Electronic Archive]: http://piers.chass.ncsu.edu/
-[*The Yearbook of Langland Studies*]: https://piersplowman.org/yls/
-[*YLS*]: https://piersplowman.org/yls/
+[*The Yearbook of Langland Studies*]: https://www.brepolsonline.net/loi/yls
+[*YLS*]: https://www.brepolsonline.net/loi/yls
