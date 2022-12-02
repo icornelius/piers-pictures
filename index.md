@@ -12,7 +12,7 @@ In such cases preference is given to [IIIF](https://iiif.io/) sources and digita
 
 Web sources are linked directly.
 For printed sources, links are to bibliographical details hosted on [zotero].
-Illustrations published in [*The Yearbook of Langland Studies*] are referenced by volume number and page.
+Illustrations published in *The Yearbook of Langland Studies* (*YLS*) are referenced by volume and page.
 
 Corrections and additions [are welcome](/piers-pictures/about).
 
@@ -102,14 +102,15 @@ C Version
 - Ec
   none found
 - Fc
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=365&nav=off)
+  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=365&nav=off),<!--fol 72v-->
+  [Wood 2022: 62][zotero]<!--fol 116v-->
 - Gc
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=364&nav=off)
 - Hc
   [Yale University Digital Collections](https://collections.library.yale.edu/catalog/2054080)
 - I
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=157&nav=off),
-  [Kerby-Fulton et al. 2012][zotero]\: 69
+  [Kerby-Fulton et al. 2012: 69][zotero]
 - Kc
   [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/1e690ddd-4b7a-4822-956d-a92e609847d9/)
 - Mc
@@ -186,5 +187,4 @@ ABC Splices
 
 [zotero]: https://www.zotero.org/irc7/tags/pp-ms-images/library
 [Piers Plowman Electronic Archive]: http://piers.chass.ncsu.edu/
-[*The Yearbook of Langland Studies*]: https://www.brepolsonline.net/loi/yls
 [*YLS*]: https://www.brepolsonline.net/loi/yls
