@@ -131,7 +131,8 @@ C Version
 - Uc
   [BL Digitised Manuscripts](https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_35157)
 - Vc
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=411&nav=off)
+  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=411&nav=off),<!--fol. 88v-->
+  [Scattergood 2021: Plate 4][zotero]<!--fol. 89v-->
 - X
   [Huntington Digital Library](https://hdl.huntington.org/digital/collection/p15150coll7/id/53252/rec/3),
   [Chambers 1936][zotero],
