@@ -97,8 +97,7 @@ C Version
   [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=406&nav=off)
 - Dc
   [Pearsall and Scott][zotero],
-  [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/e6865046-6257-4591-a731-548232c7c8dd),
-  [Middle English Scribes](https://www.medievalscribes.com/index.php?browse=manuscripts&&id=398&nav=off)
+  [Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/a241fe3e-e78e-498a-8c6d-7eae61464e54/)
 - Ec
   none found
 - Fc
