@@ -1,0 +1,607 @@
+zotero-tag: &zotero https://www.zotero.org/irc7/tags/pp-ms-images/library
+ppea-home: &ppea http://piers.chass.ncsu.edu/
+YLS-home: &yls https://www.brepolsonline.net/loi/yls
+
+# Ordered by version and within version by PPEA sigla
+
+manuscripts:
+
+# A version
+
+- sigil: A
+  shelfmark: Oxford, Bodleian Library, MS Ashmole 1468
+  text: A
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=394&nav=off
+      scope: p. 310
+
+- sigil: D
+  shelfmark: Oxford, Bodleian Library, MS Douce 323
+  text: A
+  reproductions:
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/ef0f82a5-574f-4bc0-9caa-530f3e5f0e5c/
+      scope: fol. 140r
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=395&nav=off
+      scope: fol. 109v
+
+- sigil: E
+  shelfmark: Dublin, Trinity College, MS 213
+  text: A
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=412&nav=off
+      scope: fol. 8v
+
+- sigil: Ha
+  shelfmark: London, British Library, MS Harley 875
+  text: A
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=341&nav=off
+      scope: fol. 22r
+
+- sigil: J
+  shelfmark: New York, Pierpont Morgan Library, MS M 818
+  text: A
+  reproductions:
+
+- sigil: La
+  shelfmark: London, Lincoln's Inn Library, MS Hale 150
+  text: A
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=405&nav=off
+      scope: fol. 109r
+
+- sigil: Ma
+  shelfmark: London, Society of Antiquaries, MS 687
+  text: A
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=401&nav=off
+      scope: p. 480
+
+- sigil: Pa
+  shelfmark: Cambridge, Pembroke College, MS 312 frag. C/6
+  text: A
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=369&nav=off
+      scope: fol. 1r
+
+- sigil: Ra
+  shelfmark: Oxford, Bodleian Library, MS Rawl. poet. 137
+  text: A
+  reproductions:
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/6a219961-80c7-480f-b836-fc2de1ae9260/
+      scope: fol. 29v-30r
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=428&nav=off
+      scope: fol. 11r
+
+- sigil: U
+  shelfmark: Oxford, University College, MS 45
+  text: A
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=389&nav=off
+      scope: fols 17r, 32r
+
+- sigil: V
+  shelfmark: Oxford, Bodleian Library, MS Eng. poet. a. 1
+  text: A
+  reproductions:
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/52f0a31a-1478-40e4-b05b-fddb1ad076ff/
+      scope: entire
+    - source: Doyle 1987
+      point-locator:
+      url: *zotero
+      scope: entire
+    - source: Scase 2011
+      point-locator:
+      url: *zotero
+      scope: entire
+
+# B version
+# Crowley and Rogers editions omitted
+
+- sigil: C
+  shelfmark: Cambridge, Cambridge University Library, MS Dd.1.17
+  text: B
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=363&nav=off
+      scope: fol. 1r
+    - source: Benson and Blanchfield 1997
+      point-locator:
+      url: *zotero
+      scope: fol. 5r
+
+- sigil: C2
+  shelfmark: Cambridge, Cambridge University Library, MS Ll.4.14
+  text: B
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=367&nav=off
+      scope: fol. 32v
+    - source: Benson and Blanchfield 1997
+      point-locator:
+      url: *zotero
+      scope: fol. 59r
+
+- sigil: F
+  shelfmark: Oxford, Corpus Christi College, MS 201
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *ppea
+      scope: entire
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/bbe3f34b-ebe3-4757-b2e0-cd4268c6749e/
+      scope: entire
+
+- sigil: G
+  shelfmark: Cambridge, Cambridge University Library, MS Gg.4.31
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *ppea
+      scope: entire
+
+- sigil: Hm, Hm2
+  shelfmark: San Marino, Huntington Library, MS Hm 128
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *ppea
+      scope: entire
+    - source: Huntington Digital Library
+      point-locator:
+      url: https://hdl.huntington.org/digital/collection/p15150coll7/id/50420/rec/2
+      scope: entire
+
+- sigil: Jb
+  shelfmark: London, British Library, MS Sloane 2578
+  text: B
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=400&nav=off
+      scope: fol. 107v
+
+- sigil: L
+  shelfmark: Oxford, Bodleian Library, MS Laud misc. 581
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *zotero
+      scope: entire
+
+- sigil: M
+  shelfmark: London, British Library, MS Additional 35287
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *zotero
+      scope: entire
+
+- sigil: O
+  shelfmark: Oxford, Oriel College, MS 79
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *zotero
+      scope: entire
+
+- sigil: R
+  shelfmark: London, British Library, MS Lansdowne 398 and Oxford, Bodleian Library, MS Rawlinson Poetry 38
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *zotero
+      scope: entire
+
+- sigil: S
+  shelfmark: New Haven, Beinecke Library, MS Takamiya 23
+  text: B
+  reproductions:
+    - source: Yale University Digital Collections
+      point-locator:
+      url: https://collections.library.yale.edu/catalog/16037448
+      scope: entire
+
+- sigil: Sb
+  shelfmark: London, British Library, MS Sloane 2578
+  text: B
+  reproductions:
+
+- sigil: W
+  shelfmark: Cambridge, Trinity College, MS B.15.17
+  text: B
+  reproductions:
+    - source: PPEA
+      point-locator:
+      url: *zotero
+      scope: entire
+    - source: Wren Digital Library
+      point-locator:
+      url: https://mss-cat.trin.cam.ac.uk/Manuscript/B.15.17
+      scope: entire
+    - source: Matsushita 2010
+      point-locator:
+      url: *zotero
+      scope: entire
+
+- sigil: Wb
+  shelfmark: Oxford, Bodleian Library, MS Wood donat. 7
+  text: B
+  reproductions:
+
+- sigil: Y
+  shelfmark: Cambridge, Newnham College MS 4
+  text: B
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=368&nav=off
+      scope: fol. 35r # the same fol reproduced by Benson and Blanchfield
+
+# C Version
+
+- sigil: Ac
+  shelfmark: London, University of London Library, MS S.L. V.17
+  text: C
+  reproductions:
+    - source: Bloomsbury Medieval Studies
+      point-locator:
+      url: https://www.bloomsburymedievalstudies.com/da-volume?docid=BMS_SHL003
+      scope: entire
+
+- sigil: Ca
+  shelfmark: Cambridge, Gonville and Caius College MS 669/646
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=406&nav=off
+      scope: p. 210
+
+- sigil: Dc
+  shelfmark: Oxford, Bodleian Library, MS Douce 104
+  text: C
+  reproductions:
+    - source: Pearsall and Scott 1992
+      point-locator:
+      url: *zotero
+      scope: entire
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/a241fe3e-e78e-498a-8c6d-7eae61464e54/
+      scope: entire
+
+- sigil: Ec
+  shelfmark: Oxford, Bodleian Library, MS Laud Misc. 656
+  text: C
+  reproductions:
+
+- sigil: Fc
+  shelfmark: Cambridge, Cambridge University Library, MS Ff.5.35
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=365&nav=off
+      scope: fol. 72v
+    - source: Wood 2022
+      point-locator: p. 62
+      url: *zotero
+      scope: fol. 116v
+
+- sigil: Gc
+  shelfmark: Cambridge, Cambridge University Library, MS Dd.3.13
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=364&nav=off
+      scope: fol. 49r
+
+- sigil: Hc
+  shelfmark: New Haven, Beinecke Library, MS Osborn fa45
+  text: C
+  reproductions:
+    - source: Yale University Digital Collections
+      point-locator:
+      url: https://collections.library.yale.edu/catalog/2054080
+      scope: entire
+
+- sigil: I
+  shelfmark: London, University of London Library, MS S.L. V.88
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=157&nav=off
+      scope: fol. 93r
+    - source: Kerby-Fulton et al. 2012
+      point-locator: p. 69
+      url: *zotero
+      scope: fol. 25v
+
+- sigil: Kc
+  shelfmark: Oxford, Bodleian Library, MS Digby 171
+  text: C
+  reproductions:
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/1e690ddd-4b7a-4822-956d-a92e609847d9/
+      scope: fol. 3r
+
+- sigil: Mc
+  shelfmark: London, British Library, MS Cotton Vespasian B.xvi
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=423&nav=off
+      scope: 4r
+
+- sigil: Nc
+  shelfmark: London, British Library, MS Harley 2376
+  text: C
+  reproductions:
+    - source: BL Digitised Manuscripts
+      point-locator:
+      url: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_2376
+      scope: entire
+
+- sigil: P
+  shelfmark: San Marino, Huntington Library, MS Hm 137
+  text: C
+  reproductions:
+    - source: Huntington Digital Library
+      point-locator:
+      url: https://hdl.huntington.org/digital/collection/p15150coll7/id/50421/rec/4
+      scope: entire
+
+- sigil: P2
+  shelfmark: London, British Library, MS Additional 34779
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=371&nav=off
+      scope: fol. 34r
+
+- sigil: Q
+  shelfmark: Cambridge, Cambridge University Library, MS Additional 4325
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=362&nav=off
+      scope: fol. 45r
+
+- sigil: Rc
+  shelfmark: London, British Library, MS Royal 18.B.xvii
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=424&nav=off
+      scope: fol. 14r
+
+- sigil: Sc
+  shelfmark: Cambridge, Corpus Christi College, MS 293
+  text: C
+  reproductions:
+    - source: Parker Library on the Web
+      point-locator:
+      url: https://parker.stanford.edu/parker/catalog/zf010vc1580
+      scope: entire
+
+- sigil: Uc
+  shelfmark: London, British Library, MS Additional 35157
+  text: C
+  reproductions:
+    - source: BL Digitised Manuscripts
+      point-locator:
+      url: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_35157
+      scope: entire
+
+- sigil: Vc
+  shelfmark: Dublin, Trinity College, MS 212
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=411&nav=off
+      scope: fol. 88v
+    - source: Scattergood 2021
+      point-locator: plate 4
+      url: *zotero
+      scope: fol. 89v
+
+- sigil: X
+  shelfmark: San Marino, Huntington Library, MS Hm 143
+  text: C
+  reproductions:
+    - source: Huntington Digital Library
+      point-locator:
+      url: https://hdl.huntington.org/digital/collection/p15150coll7/id/53252/rec/3
+      scope: entire
+    - source: Chambers 1936
+      point-locator:
+      url: *zotero
+      scope: entire
+    - source: Matsushita 2010
+      point-locator:
+      url: *zotero
+      scope: entire
+
+- sigil: Yc
+  shelfmark: Oxford, Bodleian Library, MS Digby 102
+  text: C
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=392&nav=off
+      scope: fol. 11r
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/d381d1c9-92c3-49cc-bc09-19ac6a53ffb5
+      scope: fol. 11v
+    - source: YLS 24
+      point-locator: p. 93
+      url: *yls
+      scope: fol. 9v
+
+# BA Splice
+
+- sigil: H
+  shelfmark: London, British Library, MS Harley 3954
+  text: BA
+  reproductions:
+    - source: BL Digitised Manuscripts
+      point-locator:
+      url: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_3954
+      scope: entire
+
+# AC Splices
+
+- sigil: Ch
+  shelfmark: Liverpool, University Library, MS F.4.8
+  text: AC
+  reproductions:
+    - source: Liverpool University
+      point-locator:
+      url: https://liverpooluniversitypress.manifoldapp.org/read/lul-ms-f-4-8/section/dc2448f1-91a3-42f6-be09-bc29fbb6a495
+      scope: entire
+
+- sigil: H2
+  shelfmark: London, British Library, MS Harley 6041
+  text: AC
+  reproductions:
+    - source: BL Digitised Manuscripts
+      point-locator:
+      url: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_6041
+      scope: entire
+
+- sigil: K
+  shelfmark: Oxford, Bodleian Library, MS Digby 145
+  text: AC
+  reproductions:
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/56f3c104-5e61-47ea-87dc-b8b8aa7db5e5/
+      scope: fols 117r, 126r, 126v
+
+- sigil: N
+  shelfmark: Aberystwyth, National Library of Wales, MS 733B
+  text: AC
+  reproductions:
+    - source: National Library of Wales
+      point-locator:
+      url: https://www.library.wales/discover/digital-gallery/manuscripts/the-middle-ages/piers-plowman/
+      scope: entire
+
+        #   [Matsushita 2010]({{ page.zotero }})
+- sigil: T
+  shelfmark: Cambridge, Trinity College, MS R.3.14
+  text: AC
+  reproductions:
+    - source: Wren Digital Library
+      point-locator:
+      url: https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.14
+      scope: entire
+
+- sigil: Wa
+  shelfmark: unknown, <i>olim</i> the Duke of Westminster's manuscript
+  text: AC
+  reproductions:
+
+- sigil: Z
+  shelfmark: Oxford, Bodleian Library, MS Bodley 851
+  text: AC
+  reproductions:
+    - source: Digital Bodleian
+      point-locator:
+      url: https://digital.bodleian.ox.ac.uk/objects/0cecbb9e-b126-4360-b514-eb949f851b43/
+      scope: entire
+    - source: Brewer and Rigg 1994
+      point-locator:
+      url: *zotero
+      scope: fols 124r-140v
+    - source: Matsushita 2008
+      point-locator:
+      url: *zotero
+      scope: fols 124r-140v
+
+# ABC Splices
+
+- sigil: Bm
+  shelfmark: London, British Library, MS Additional 10574
+  text: ABC
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=370&nav=off
+      scope: fol. 60v # same fol printed by Benson and Blanchfield
+
+- sigil: Bo
+  shelfmark: Oxford, Bodleian Library, MS Bodley 814
+  text: ABC
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=388&nav=off
+      scope: fol. 37r # same fol printed by Benson and Blanchfield
+
+- sigil: Cot
+  shelfmark: London, British Library, MS Cotton Caligula A.xi
+  text: ABC
+  reproductions:
+    - source: Middle English Scribes
+      point-locator:
+      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=373&nav=off
+      scope: fol. 209r # same fol printed by Benson and Blanchfield
+    - source: YLS 24
+      point-locator: p. 65
+      url: *yls
+      scope: fol. 180r
+
+- sigil: Ht
+  shelfmark: San Marino, Huntington Library, MS HM 114
+  text: ABC
+  reproductions:
+    - source: Huntington Digital Library
+      point-locator:
+      url: https://hdl.huntington.org/digital/collection/p15150coll7/id/40589/rec/4
+      scope: entire
