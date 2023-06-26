@@ -522,6 +522,10 @@ manuscripts:
       point-locator:
       url: https://digital.bodleian.ox.ac.uk/objects/56f3c104-5e61-47ea-87dc-b8b8aa7db5e5/
       scope: fols 117r, 126r, 126v
+    - source: Kerby-Fulton 2003
+      point-locator: pp. 132-133
+      url: *zotero
+      scope: fols 52r, 123v
 
 - sigil: N
   shelfmark: Aberystwyth, National Library of Wales, MS 733B
