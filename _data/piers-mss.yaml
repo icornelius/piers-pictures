@@ -143,6 +143,10 @@ manuscripts:
       point-locator:
       url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=367&nav=off
       scope: fol. 32v
+    - source: YLS 8
+      point-locator: p. 68
+      url: *yls
+      scope: fol. 36v
     - source: Benson and Blanchfield 1997
       point-locator:
       url: *zotero
