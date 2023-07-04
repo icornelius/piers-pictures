@@ -86,12 +86,8 @@ manuscripts:
   reproductions:
     - source: Digital Bodleian
       point-locator:
-      url: https://digital.bodleian.ox.ac.uk/objects/6a219961-80c7-480f-b836-fc2de1ae9260/
-      scope: fol. 29v-30r
-    - source: Middle English Scribes
-      point-locator:
-      url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=428&nav=off
-      scope: fol. 11r
+      url: https://digital.bodleian.ox.ac.uk/objects/0f8e6119-04c1-48c4-b3cf-8f755ea0390d/
+      scope: entire
 
 - sigil: U
   shelfmark: Oxford, University College, MS 45
@@ -365,8 +361,8 @@ manuscripts:
   reproductions:
     - source: Digital Bodleian
       point-locator:
-      url: https://digital.bodleian.ox.ac.uk/objects/1e690ddd-4b7a-4822-956d-a92e609847d9/
-      scope: fol. 3r
+      url: https://digital.bodleian.ox.ac.uk/objects/e8f40f5b-7d3a-4ab9-9b49-0c473a85b619/
+      scope: entire
 
 - sigil: Mc
   shelfmark: London, British Library, MS Cotton Vespasian B.xvi
@@ -524,12 +520,8 @@ manuscripts:
   reproductions:
     - source: Digital Bodleian
       point-locator:
-      url: https://digital.bodleian.ox.ac.uk/objects/56f3c104-5e61-47ea-87dc-b8b8aa7db5e5/
-      scope: fols 117r, 126r, 126v
-    - source: Kerby-Fulton 2003
-      point-locator: pp. 132-133
-      url: *zotero
-      scope: fols 52r, 123v
+      url: https://digital.bodleian.ox.ac.uk/objects/675474a5-74bd-4476-90fb-56da8bea27f6/
+      scope: entire
 
 - sigil: N
   shelfmark: Aberystwyth, National Library of Wales, MS 733B
