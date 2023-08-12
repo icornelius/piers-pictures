@@ -171,7 +171,7 @@ manuscripts:
       scope: entire
 
 - sigil: Hm, Hm2
-  shelfmark: San Marino, Huntington Library, MS Hm 128
+  shelfmark: San Marino, Huntington Library, MS HM 128
   text: B
   reproductions:
     - source: PPEA
@@ -198,7 +198,7 @@ manuscripts:
   reproductions:
     - source: PPEA
       point-locator:
-      url: *zotero
+      url: *ppea
       scope: entire
 
 - sigil: M
@@ -207,7 +207,7 @@ manuscripts:
   reproductions:
     - source: PPEA
       point-locator:
-      url: *zotero
+      url: *ppea
       scope: entire
 
 - sigil: O
@@ -216,7 +216,7 @@ manuscripts:
   reproductions:
     - source: PPEA
       point-locator:
-      url: *zotero
+      url: *ppea
       scope: entire
 
 - sigil: R
@@ -225,7 +225,7 @@ manuscripts:
   reproductions:
     - source: PPEA
       point-locator:
-      url: *zotero
+      url: *ppea
       scope: entire
 
 - sigil: S
@@ -248,7 +248,7 @@ manuscripts:
   reproductions:
     - source: PPEA
       point-locator:
-      url: *zotero
+      url: *ppea
       scope: entire
     - source: Wren Digital Library
       point-locator:
@@ -265,7 +265,7 @@ manuscripts:
   reproductions:
 
 - sigil: Y
-  shelfmark: Cambridge, Newnham College MS 4
+  shelfmark: Cambridge, Newnham College, MS 4
   text: B
   reproductions:
     - source: Middle English Scribes
@@ -285,7 +285,7 @@ manuscripts:
       scope: entire
 
 - sigil: Ca
-  shelfmark: Cambridge, Gonville and Caius College MS 669/646
+  shelfmark: Cambridge, Gonville and Caius College, MS 669/646
   text: C
   reproductions:
     - source: Middle English Scribes
@@ -383,7 +383,7 @@ manuscripts:
       scope: entire
 
 - sigil: P
-  shelfmark: San Marino, Huntington Library, MS Hm 137
+  shelfmark: San Marino, Huntington Library, MS HM 137
   text: C
   reproductions:
     - source: Huntington Digital Library
@@ -450,7 +450,7 @@ manuscripts:
       scope: fol. 89v
 
 - sigil: X
-  shelfmark: San Marino, Huntington Library, MS Hm 143
+  shelfmark: San Marino, Huntington Library, MS HM 143
   text: C
   reproductions:
     - source: Huntington Digital Library
