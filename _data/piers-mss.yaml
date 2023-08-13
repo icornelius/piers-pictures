@@ -470,6 +470,10 @@ manuscripts:
   shelfmark: Oxford, Bodleian Library, MS Digby 102
   text: C
   reproductions:
+    - source: YLS 24
+      point-locator: p. 93
+      url: *yls
+      scope: fol. 9v
     - source: Middle English Scribes
       point-locator:
       url: https://www.medievalscribes.com/index.php?browse=manuscripts&&id=392&nav=off
@@ -478,10 +482,10 @@ manuscripts:
       point-locator:
       url: https://digital.bodleian.ox.ac.uk/objects/d381d1c9-92c3-49cc-bc09-19ac6a53ffb5
       scope: fol. 11v
-    - source: YLS 24
-      point-locator: p. 93
-      url: *yls
-      scope: fol. 9v
+    - source: Wakelin 2018
+      point-locator: p. 143
+      url: *zotero
+      scope: fol. 53v
 
 # BA Splice
 
