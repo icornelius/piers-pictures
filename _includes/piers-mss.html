@@ -5,8 +5,8 @@
 <li>{{ ms.shelfmark }} ({{ ms.sigil }}):
   {% for item in ms.reproductions %}
   <a href="{{ item.url }}">{{ item.source }}</a>
-  {%if item.point-locator %}, {{ item.point-locator }} {%endif%}
-  {%if item.scope %} ({{item.scope}}) {%endif%} |
+  {%- if item.point-locator %}, {{ item.point-locator }} {% endif %}
+  {% if item.scope %} ({{item.scope}}) {% endif %} |
   {% else %} None found |
   {% endfor %}
 </li>
