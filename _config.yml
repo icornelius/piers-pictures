@@ -7,7 +7,6 @@ repository: "icornelius/piers-pictures"
 source: .
 baseurl: "/piers-pictures" # the subpath of your site, e.g. /blog
 url: "https://icornelius.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ircornelius
 github_username: icornelius
 
 # Build settings
