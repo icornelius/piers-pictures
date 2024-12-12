@@ -495,7 +495,7 @@ manuscripts:
   reproductions:
     - source: BL Digitised Manuscripts
       point-locator:
-      url: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_3954
+      url: https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100057740181.0x000001
       scope: entire
 
 # AC Splices
