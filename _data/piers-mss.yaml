@@ -183,7 +183,7 @@ manuscripts:
       url: https://hdl.huntington.org/digital/collection/p15150coll7/id/50420/rec/2
       scope: entire
 
-- sigil: Jb
+- sigil: Sb
   shelfmark: London, British Library, MS Sloane 2578
   text: B
   reproductions:
@@ -237,8 +237,8 @@ manuscripts:
       url: https://collections.library.yale.edu/catalog/16037448
       scope: entire
 
-- sigil: Sb
-  shelfmark: London, British Library, MS Sloane 2578
+- sigil: Jb
+  shelfmark: Oxford, Bodleian Library, MS James 2, part 1
   text: B
   reproductions:
 
