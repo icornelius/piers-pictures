@@ -31,7 +31,7 @@ manuscripts:
       scope: fol. 109v
 
 - sigil: E
-  shelfmark: Dublin, Trinity College, MS 213
+  shelfmark: Dublin, Trinity College, MS 213 (D.4.12)
   text: A
   reproductions:
     - source: Middle English Scribes
@@ -437,7 +437,7 @@ manuscripts:
       scope: entire
 
 - sigil: Vc
-  shelfmark: Dublin, Trinity College, MS 212
+  shelfmark: Dublin, Trinity College, MS 212 (D.4.1)
   text: C
   reproductions:
     - source: Middle English Scribes
@@ -448,6 +448,10 @@ manuscripts:
       point-locator: plate 4
       url: *zotero
       scope: fol. 89v
+    - source: Kane 1965
+      point-locator: plates I, II (i-ii)
+      url: *zotero
+      scope: fol. 88v-89v
 
 - sigil: X
   shelfmark: San Marino, Huntington Library, MS HM 143
